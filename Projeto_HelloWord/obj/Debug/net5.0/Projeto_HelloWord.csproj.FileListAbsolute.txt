@@ -1,0 +1,16 @@
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\bin\Debug\net5.0\Projeto_HelloWord.exe
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\bin\Debug\net5.0\Projeto_HelloWord.deps.json
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\bin\Debug\net5.0\Projeto_HelloWord.runtimeconfig.json
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\bin\Debug\net5.0\Projeto_HelloWord.runtimeconfig.dev.json
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\bin\Debug\net5.0\Projeto_HelloWord.dll
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\bin\Debug\net5.0\Projeto_HelloWord.pdb
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\obj\Debug\net5.0\Projeto_HelloWord.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\obj\Debug\net5.0\Projeto_HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\obj\Debug\net5.0\Projeto_HelloWord.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\obj\Debug\net5.0\Projeto_HelloWord.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\obj\Debug\net5.0\Projeto_HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\obj\Debug\net5.0\Projeto_HelloWord.dll
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\obj\Debug\net5.0\refint\Projeto_HelloWord.dll
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\obj\Debug\net5.0\Projeto_HelloWord.pdb
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\obj\Debug\net5.0\Projeto_HelloWord.genruntimeconfig.cache
+C:\Users\Usuário\source\repos\Projeto_HelloWord\Projeto_HelloWord\obj\Debug\net5.0\ref\Projeto_HelloWord.dll
